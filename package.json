@@ -11,5 +11,14 @@
     "inquirer": "^6.5.2"
   },
   "keywords": [],
-  "description": ""
+  "description": "## Description:   This is a simple terminal/console based readme generator. Using the npm inquirer package and Node.js; the user is prompted for information to generate their custom readme/markdown file.",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarAce/09-Professional-README-Generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/OmarAce/09-Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/OmarAce/09-Professional-README-Generator#readme"
 }
