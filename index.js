@@ -60,7 +60,7 @@ const questions = [
     {   //How to Contribute
         type: 'input',
         name: 'contribution',
-        message: 'How can people help with this projects growth?',
+        message: 'How can people contribute to this projects growth?',
         validate: contributionInput => {
             if (contributionInput) {
                 return true;

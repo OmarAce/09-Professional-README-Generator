@@ -2,6 +2,8 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
+  ${data.licensing}
+
   ## Description:
   ${data.description}
 
@@ -29,7 +31,9 @@ function generateMarkdown(data) {
   ## Contribution:
   ${data.contribution}
 
-  ## Additional Info:
+  ## Questions:
+  Have any questions?<br>
+  Feel free to contact me at:
   - Github: [${data.github}](https://github.com/${data.github})
   - Email: ${data.email} `;
 }

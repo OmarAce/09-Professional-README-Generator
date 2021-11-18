@@ -1,5 +1,7 @@
 # 09-Professional-Readme-Generator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   ## Description:
   This is a simple terminal/console based readme generator. Using the npm inquirer package and Node.js; the user is prompted for information to generate their custom readme/markdown file.
 
@@ -39,6 +41,8 @@
   ```
   -Follow Prompts
 
-  ## Additional Info:
+  ## Questions:
+  Have any questions?\
+  Feel free to contact me at:
   - Github: [OmarAce](https://github.com/OmarAce)
   - Email: omarace95@gmail.com
