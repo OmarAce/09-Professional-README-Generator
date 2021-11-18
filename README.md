@@ -5,7 +5,7 @@
   ## Description:
   This is a simple terminal/console based readme generator. Using the npm inquirer package and Node.js; the user is prompted for information to generate their custom readme/markdown file.
 
-  ![Readme Generator Demo](utils/readme-generator-demo.gif)
+  ![Readme Generator Demo](utils/readme-demo.gif)
 
   ## Table of Contents 
   - [Description](#description)
